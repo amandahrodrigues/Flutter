@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "190561982770",
+    "firebase_url": "https://chat-online-flutter-54023.firebaseio.com",
+    "project_id": "chat-online-flutter-54023",
+    "storage_bucket": "chat-online-flutter-54023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190561982770:android:b981cbf03e426925489f2b",
+        "android_client_info": {
+          "package_name": "rodrigues.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190561982770-gh8vdog0cmrlj65n89o3ptupdbb6ed6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rodrigues.com.br",
+            "certificate_hash": "4e9e5e0deb300081fa50a63f1ccbe056f803e04c"
+          }
+        },
+        {
+          "client_id": "190561982770-bf2jgvevrse800pokhvnavnstat62qjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-PO-NRFHFxpHaNz_f7wydtQFgSnYTE0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190561982770-bf2jgvevrse800pokhvnavnstat62qjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

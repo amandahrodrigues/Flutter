@@ -1,0 +1,9 @@
+Certificado de assinatura de depuração SHA-1
+
+Primeiramente ir no bin do java
+
+C:\Program Files\Java\jre7\bin
+
+Depois na barra de endereço digita cmd e colocar o código
+
+keytool -list -v -keystore C:\Users\Tag-1365\.android\debug.keystore  -alias androiddebugkey -storepass android -keypass android
